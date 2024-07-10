@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calamarik
 - 👀 I’m interested in Video games, animation and pixel art
-- 🌱 I’m currently learning C# and unity.
+- 🌱 I’m also making games in Unity
 - 💞️ I’m looking to collaborate on an indie game project perhaps ?
 - 📫 How to reach me @calamarik on twitter.
 
